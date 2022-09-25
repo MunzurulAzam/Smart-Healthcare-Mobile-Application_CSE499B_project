@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "900814158302",
+    "firebase_url": "https://doctorfinder-1a6c3.firebaseio.com",
+    "project_id": "doctorfinder-1a6c3",
+    "storage_bucket": "doctorfinder-1a6c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900814158302:android:4799289ac84f10bd",
+        "android_client_info": {
+          "package_name": "freaktemplate.nearbydoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900814158302-nv3jmoarfhp3evd13n5fvbcbl77k4etv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "freaktemplate.nearbydoctor",
+            "certificate_hash": "1b2f01e7254d4b803a623e7cbbe11eb2d634493f"
+          }
+        },
+        {
+          "client_id": "900814158302-5ovhaglu35f5sl7njdci6q6n5flfdr71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIBLcqvcCn0Xx01qp7ulrUiBAg6nrEhe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900814158302-5ovhaglu35f5sl7njdci6q6n5flfdr71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
